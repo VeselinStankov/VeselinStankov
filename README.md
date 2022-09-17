@@ -1,9 +1,9 @@
-- 👋 Hi, everyone. I’m @VeselinStankov
-- 
-- 🌱 I am currently studying 2nd year "Information technology in the industry" at the Technical University of Sofia.
-- 🌱 I am also studying in the online academy "SoftUni" - Java Fundamentals.
-- 
-- 👀 I’m interested in Java programming and the technologies around Java.
-- 👀 I consider myself as a fast learner and an open minded person, dedicated to learn new things daily.
-- 
-- 📫 You can contact me on: stankov_2001@abv.bg
+👋 Hi, everyone. I’m Veselin Stankov. 
+
+🌱 I am currently studying 3rd year "Information technology in the industry" at the Technical University of Sofia.
+
+👀 I’m interested in mobile development with kotlin/java and technologies around it. I also have some experience using Java Spring Framework.
+
+👀 I consider myself as a fast learner and an open minded person, dedicated to learn new things daily.
+
+📫 You can contact me on: veselin.stankov.01@gmail.com
